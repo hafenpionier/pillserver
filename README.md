@@ -1,34 +1,9 @@
 ## Welcome to PillServer
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/hafenpionier/pillserver/blob/master/PillServer.png?raw=true" alt="Pillserver Prototype"/>
 </p>
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/hafenpionier/pillserver/blob/master/PillServer.png)
-![My image](https://github.com/hafenpionier/pillserver/blob/master/PillServer.png?raw=true)
-```
-
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
-
-![Image of Pillserver Prototype](https://github.com/hafenpionier/pillserver/blob/master/PillServer.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/hafenpionier/pillserver/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
