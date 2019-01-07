@@ -17,7 +17,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](https://github.com/hafenpionier/pillserver/blob/master/PillServer.png)
-![My image](hafenpionier/pillserver/blob/master/PillServer.png)
+![My image](/hafenpionier/pillserver/blob/master/PillServer.png)
 ```
 
 
