@@ -21,7 +21,7 @@ Syntax highlighted code block
 ```
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Pillserver Prototype](/hafenpionier/pillserver/blob/master/PillServer.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/hafenpionier/pillserver/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
