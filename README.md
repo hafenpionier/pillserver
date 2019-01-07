@@ -14,12 +14,19 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](https://github.com/hafenpionier/pillserver/blob/master/PillServer.png)
 ![My image](https://github.com/hafenpionier/pillserver/blob/master/PillServer.png?raw=true)
 ```
 
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ![Image of Pillserver Prototype](https://github.com/hafenpionier/pillserver/blob/master/PillServer.png?raw=true)
 
