@@ -1,42 +1,21 @@
 ## Welcome to PillServer
 
+The Idea of PillServer was inspired by a friend, who had a person he cared for that too often forgot which pill to take. Since usual Pill-Dispensers are only as good as they are used, we thought about a pill serving tool, that cares for your pills and the times you need to take them. A sorted stock of pills get ejected just in time and a chatbot makes a friendly reminder for the pills. Since there are often caring members I also added a feature that makes caring people do their jobs more easily: When the pills are not withdrawn they can get informed via the chatbot, so they can get into action and check if there are any troubles. 
 
 <p align="center">
   <img src="https://github.com/hafenpionier/pillserver/blob/master/PillServer.png?raw=true" alt="Pillserver Prototype"/>
 </p>
 
-You can use the [editor on GitHub](https://github.com/hafenpionier/pillserver/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Idea
 
-### Markdown
+## The Hardware
+- 3D printed Tower
+- ESP8266
+- Servomotor
+- Raspberry Pi (Used as a Server for Database and the chatbot. Other Solutions might work aswell)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](pillserver/PillServer.png)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hafenpionier/pillserver/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having troublgfdgfdge with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I made this complete project for personal needs and this is not ment as a tool for medical support. If you have any questions feel free to contact me. daniel_baumann_post@yahoo.de
